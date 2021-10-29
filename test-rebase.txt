@@ -2,3 +2,13 @@ test1
 test2
 develop
 develop opet
+feature/test3
+
+-------------------------------------
+SQUASH
+
+1 commit
+2 commit
+3 commit
+4 commit 
+5 commit
