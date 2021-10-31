@@ -1,3 +1,7 @@
 develop
 ----------------
 nova promena na developu
+
+komit 1
+komit 2
+komit 3
